@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "Dark・MD 3.0#4452",
+        "name": "Noblesse Raizel Theme",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/MDOP694\/Noblesse-Raizal-Theme\/main\/Noblesse%20Raizel%20Theme.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/893855417581584394\/893886607755739137\/images_21.jpeg",
+        "blur_radius": 0,
+        "overlay_alpha": 50
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/868419532992172073\/894117672894222346\/StickNoBills-ExtraLight.ttf"
+    },
+    "simple_colors": {
+        "background": -16643314,
+        "background_secondary": -16777216
+    },
+    "colors": {
+        "primary_dark_200": -1218813,
+        "brand_530": -14576580,
+        "link": -15105007,
+        "primary_dark_300": -6023915,
+        "primary_dark_660": -16382463,
+        "primary_800": -16070878,
+        "uikit_settings_item_text_color_dark": -2944491
+    },
+    "drawable_tints": {}
+}
